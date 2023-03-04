@@ -1,1 +1,3 @@
 # Student-platform
+Programul contine clase pentru tipul de utilizatori posibili, student, profesor, asistent si parinte. 
+Clasa de baza,catalog contine cursurile carora le corespund grupele de studenti, profesorul si lista de asistenti, apoi fiecare grupa are propriul asistent si fiecarui student ii corespunde cate o nota partiala, finala si totala. Design pattern-urile sunt implementate pentru a stabili daca studenti au promovat o materie(strategy), pentru ca parintii sa primeasca notificari legate de notele copiilor(observer) si pentru ca profesorii si asistentiisa poate pune note in catalog studentilor(visitor).
