@@ -1,0 +1,1307 @@
+	courses
+	    name PO
+	    type FullCourse
+		strategy BestPartialScore
+			teacher
+                Ion
+                Mihalache
+        	assistants
+                Alexandra
+                Maria
+                Andrei
+                Georgescu
+        	groups
+                ID 312CC
+            	assistant
+                    Andrei
+            	    Georgescu
+            	students
+            	    Gigel
+            	    Frone
+            			mother
+            				Maria
+            				Frone
+
+            			father
+            				Daniel
+            			    Frone
+            		Cosmin
+            	    Andrei
+            			father
+            				Vasile
+            				Andrei
+            		Ionel
+            		Dragomir
+            			mother
+            				Letitia
+            				Dragomir
+            		Florin
+            		Florea
+            	        mother
+            				Adriana
+            			    Florea
+            			father
+            			    Catalin
+            				Florea
+            		Costel
+            	    Busuioc
+            			mother
+            				Carmen
+            				Busuioc
+            			father
+            				Nelu
+            				Busuioc
+                ID 314CC
+                assistant
+                	Alexandra
+                    Maria
+                students
+                	Sebastian
+                    Moisescu
+                        mother
+                		    Viorela
+                			Moisescu
+                		father
+                			Ionut
+                			Moisescu
+                	Larisa
+                	Oana
+                		father
+                			Alecu
+                	        Oana
+                	Georgiana
+                	Calin
+                		mother
+                			Lidia
+                	        Calin
+                	Dragos
+                	Barbu
+                		mother
+                			Anastasia
+                			Barbu
+                	    father
+                	        Lucian
+                		    Barbu
+                	Alberto
+                    Ciobanu
+                		mother
+                			Mihaela
+                			Ciobanu
+                		father
+                			Emil
+                		    Ciobanu
+        name   PP
+        type FullCourse
+        			strategy BestExamScore
+        			teacher 
+        				 Sonia
+        				 Lupu
+        			
+        			assistants 
+        				
+        					 Florentina
+        					 Bratosin
+        				
+        				
+        					 Horia
+        					 Ghita
+        				
+        			
+        			groups 
+        				
+        					ID 312CC
+        					assistant 
+        						 Florentina
+        						 Bratosin
+        					
+        					students 
+        						
+        							 Gigel
+        							 Frone
+        							mother 
+        								 Maria
+        								 Frone
+        							
+        							father 
+        								 Daniel
+        								 Frone
+        							
+        						
+        						
+        							 Cosmin
+        							 Andrei
+        							father 
+        								 Vasile
+        								 Andrei
+        							
+        						
+        						
+        							 Ionel
+        							 Dragomir
+        							mother 
+        								 Letitia
+        								 Dragomir
+        							
+        						
+        						
+        							 Florin
+        							 Florea
+        							mother 
+        								 Adriana
+        								 Florea
+        							
+        							father 
+        								 Catalin
+        								 Florea
+        							
+        						
+        						
+        							 Costel
+        							 Busuioc
+        							mother 
+        								 Carmen
+        								 Busuioc
+        							
+        							father 
+        								 Nelu
+        								 Busuioc
+        							
+        						
+        					
+        				
+        				
+        					ID 314CC
+        					assistant 
+        						 Horia
+        						 Ghita
+        					
+        					students 
+        						
+        							 Sebastian
+        							 Moisescu
+        							mother 
+        								 Viorela
+        								 Moisescu
+        							
+        							father 
+        								 Ionut
+        								 Moisescu
+        							
+        						
+        						
+        							 Larisa
+        							 Oana
+        							father 
+        								 Alecu
+        								 Oana
+        							
+        						
+        						
+        							 Georgiana
+        							 Calin
+        							mother 
+        								 Lidia
+        								 Calin
+        							
+        						
+        						
+        							 Dragos
+        							 Barbu
+        							mother 
+        								 Anastasia
+        								 Barbu
+        							
+        							father 
+        								 Lucian
+        								 Barbu
+        							
+        						
+        						
+        							 Alberto
+        							 Ciobanu
+        							mother 
+        								 Mihaela
+        								 Ciobanu
+        							
+        							father 
+        								 Emil
+        								 Ciobanu
+        							
+        						
+        					
+        				
+        			
+        		
+        		
+        			name ED
+        			type PartialCourse
+        			strategy BestTotalScore
+        			teacher 
+        				 George
+        				 Dinu
+        			
+        			assistants 
+        				
+        					 Emilian
+        					 Voinea
+        				
+        				
+        					 Adrian
+        					 Sava
+        				
+        			
+        			groups 
+        				
+        					ID 311CC
+        					assistant 
+        						 Adrian
+        						 Sava
+        					
+        					students 
+        						
+        							 Livia
+        							 Ursu
+        						
+        						
+        							 Alfred
+        							 Pop
+        							father 
+        								 Albert
+        								 Pop
+        							
+        						
+        						
+        							 Iulian
+        							 Iancu
+        							mother 
+        								 Elena
+        								 Iancu
+        							
+        						
+        						
+        							 Sofia
+        							 Negoita
+        							mother 
+        								 Ana
+        								 Negoita
+        							
+        							father 
+        								 Marius
+        								 Negoita
+        							
+        						
+        						
+        							 Alma
+        							 Dobrica
+        							mother 
+        								 Corina
+        								 Dobrica
+        							
+        							father 
+        								 Cristi
+        								 Dobrica
+
+        				
+        					ID 313CC
+        					assistant 
+        						 Emilian
+        						 Voinea
+        					
+        					students 
+        						
+        							 Cristian
+        							 Manole
+        							mother 
+        								 Victoria
+        								 Manole
+        							
+        							father 
+        								 Andrei
+        								 Manole
+        							
+        						
+        						
+        							 Denisa
+        							 Pavel
+        							father 
+        								 Bogdan
+        								 Pavel
+        							
+        						
+        						
+        							 Alex
+        							 Petrescu
+        							mother 
+        								 Monica
+        								 Petrescu
+        							
+        						
+        						
+        							 Cosmin
+        							 Tomulescu
+        						
+        						
+        							 Camelia
+        							 Tunaru
+        							mother 
+        								 Petra
+        								 Tunaru
+        							
+        							father 
+        								 Cristian
+        								 Tunaru
+        							
+        						
+        					
+        				
+        			
+        		
+        		
+        			name SO
+        			type FullCourse
+        			strategy BestPartialScore
+        			teacher 
+        				 Razvan
+        				 Calinescu
+        			
+        			assistants 
+        				
+        					 Alma
+        					 Toma
+        				
+        				
+        					 Cornel
+        					 Cosma
+        				
+        			
+        			groups 
+        				
+        					ID 311CC
+        					assistant 
+        						 Alma
+        						 Toma
+        					
+        					students 
+        						
+        							 Livia
+        							 Ursu
+        						
+        						
+        							 Alfred
+        							 Pop
+        							father 
+        								 Albert
+        								 Pop
+        							
+        						
+        						
+        							 Iulian
+        							 Iancu
+        							mother 
+        								 Elena
+        								 Iancu
+        							
+        						
+        						
+        							 Sofia
+        							 Negoita
+        							mother 
+        								 Ana
+        								 Negoita
+        							
+        							father 
+        								 Marius
+        								 Negoita
+        							
+        						
+        						
+        							 Alma
+        							 Dobrica
+        							mother 
+        								 Corina
+        								 Dobrica
+        							
+        							father 
+        								 Cristi
+        								 Dobrica
+        							
+        						
+        					
+        				
+        				
+        					ID 313CC
+        					assistant 
+        						 Cornel
+        						 Cosma
+        					
+        					students 
+        						
+        							 Cristian
+        							 Manole
+        							mother 
+        								 Victoria
+        								 Manole
+        							
+        							father 
+        								 Andrei
+        								 Manole
+        							
+        						
+        						
+        							 Denisa
+        							 Pavel
+        							father 
+        								 Bogdan
+        								 Pavel
+        							
+        						
+        						
+        							 Alex
+        							 Petrescu
+        							mother 
+        								 Monica
+        								 Petrescu
+        							
+        						
+        						
+        							 Cosmin
+        							 Tomulescu
+        						
+        						
+        							 Camelia
+        							 Tunaru
+        							mother 
+        								 Petra
+        								 Tunaru
+        							
+        							father 
+        								 Cristian
+        								 Tunaru
+    	examScores 
+        course PO
+        teacher
+    	    Ion
+    		Mihalache
+    			
+    			student 
+    				 Ionel
+    				 Dragomir
+    			
+    			
+    			grade 2.35
+    		
+
+    			student 
+    				 Gigel
+    				 Frone
+    			
+    			
+    			grade 1.2
+    		
+
+    			
+    			student 
+    				 Costel
+    				 Busuioc
+    			
+    			
+    			grade 1.6
+    		
+
+    			
+    			student 
+    				 Florin
+    				 Florea
+    			
+    			
+    			grade 4.1
+    		
+
+    			
+    			student 
+    				 Cosmin
+    				 Andrei
+    			
+    			
+    			grade 2.35
+    		
+
+    			
+    			student 
+    				 Sebastian
+    				 Moisescu
+    			
+    			
+    			grade 0.85
+
+    			
+    			student 
+    				 Larisa
+    				 Oana
+    			
+    			
+    			grade 1.5
+
+    			
+    			student 
+    				 Georgiana
+    				 Calin
+    			
+    			
+    			grade 3.75
+    		
+
+    			student 
+    				 Dragos
+    				 Barbu
+    			
+    			
+    			grade 5
+
+    			
+    			student 
+    				 Alberto
+    				 Ciobanu
+    			
+    			
+    			grade 3.25
+    		
+    		course PP
+    		teacher
+    		    Sonia
+    			Lupu
+    			
+    			student 
+    				 Ionel
+    				 Dragomir
+    			
+    			
+    			grade 1.15
+
+    			student 
+    				 Gigel
+    				 Frone
+    			
+    			
+    			grade 3.7
+
+    			student 
+    				 Costel
+    				 Busuioc
+    			
+    			
+    			grade 4
+    		
+
+    			
+    			student 
+    				 Florin
+    				 Florea
+    			
+    			
+    			grade 2.35
+
+    			student 
+    				 Cosmin
+    				 Andrei
+    			
+    			
+    			grade 2.9
+
+    			
+    			student 
+    				 Sebastian
+    				 Moisescu
+    			
+    			
+    			grade 1.75
+
+    			student 
+    				 Larisa
+    				 Oana
+    			
+    			
+    			grade 2.25
+
+    			
+    			student 
+    				 Georgiana
+    				 Calin
+    			
+    			
+    			grade 4.2
+
+    			
+    			student 
+    				 Dragos
+    				 Barbu
+    			
+    			
+    			grade 3.6
+    		
+
+    			
+    			student 
+    				 Alberto
+    				 Ciobanu
+    			
+    			
+    			grade 1.95
+    		
+    		course ED
+    		teacher
+    			George
+    			Dinu
+    			
+    			student 
+    				 Livia
+    				 Ursu
+    			
+    			
+    			grade 3.45
+
+    			
+    			student 
+    				 Alfred
+    				 Pop
+    			
+    			
+    			grade 1.75
+
+    			
+    			student 
+    				 Iulian
+    				 Iancu
+    			
+    			
+    			grade 2.5
+
+    			
+    			student 
+    				 Sofia
+    				 Negoita
+    			
+    			
+    			grade 0.6
+    		
+
+    			student 
+    				 Alma
+    				 Dobrica
+    			
+    			
+    			grade 3.95
+    		
+
+    			student 
+    				 Cristian
+    				 Manole
+    			
+    			
+    			grade 5
+    		
+
+    			student 
+    				 Denisa
+    				 Pavel
+    			
+    			
+    			grade 3.55
+
+    			
+    			student 
+    				 Alex
+    				 Petrescu
+    			
+    			
+    			grade 2.15
+
+    			
+    			student 
+    				 Cosmin
+    				 Tomulescu
+    			
+    			
+    			grade 1
+    		
+
+    			student 
+    				 Camelia
+    				 Tunaru
+    			
+    			
+    			grade 2.2
+    		
+    		course SO
+    		teacher
+    			 Razvan
+    			 Calinescu
+    			
+    			student 
+    				 Livia
+    				 Ursu
+    			
+    			
+    			grade 1.65
+    		
+
+    			student 
+    				 Alfred
+    				 Pop
+    			
+    			
+    			grade 3.35
+    		
+
+    			student 
+    				 Iulian
+    				 Iancu
+    			
+    			
+    			grade 2.8
+
+    			
+    			student 
+    				 Sofia
+    				 Negoita
+    			
+    			
+    			grade 4.15
+
+    			
+    			student 
+    				 Alma
+    				 Dobrica
+    			
+    			
+    			grade 0.55
+
+    			
+    			student 
+    				 Cristian
+    				 Manole
+    			
+    			
+    			grade 3.65
+
+    			
+    			student 
+    				 Denisa
+    				 Pavel
+    			
+    			
+    			grade 2.1
+
+    			
+    			student 
+    				 Alex
+    				 Petrescu
+    			
+    			
+    			grade 3.1
+
+    			
+    			student 
+    				 Cosmin
+    				 Tomulescu
+    			
+    			
+    			grade 3.3
+
+    			student 
+    				 Camelia
+    				 Tunaru
+    			
+    			
+    			grade 1.45
+    		
+    partialScores
+    course PO
+    		
+    			assistant 
+    				 Andrei
+    				 Georgescu
+    			
+    			student 
+    				 Ionel
+    				 Dragomir
+    			
+    			
+    			grade 3.4
+    		
+    		
+    			assistant 
+    				 Andrei
+    				 Georgescu
+    			
+    			student 
+    				 Gigel
+    				 Frone
+    			
+    			
+    			grade 2.75
+    		
+    		
+    			assistant 
+    				 Andrei
+    				 Georgescu
+    			
+    			student 
+    				 Costel
+    				 Busuioc
+    			
+    			
+    			grade 3.5
+    		
+    		
+    			assistant 
+    				 Andrei
+    				 Georgescu
+    			
+    			student 
+    				 Florin
+    				 Florea
+    			
+    			
+    			grade 4.85
+    		
+    		
+    			assistant 
+    				 Andrei
+    				 Georgescu
+    			
+    			student 
+    				 Cosmin
+    				 Andrei
+    			
+    			
+    			grade 2.35
+    		
+    		
+    			assistant 
+    				 Alexandra
+    				 Maria
+    			
+    			student 
+    				 Sebastian
+    				 Moisescu
+    			
+    			
+    			grade 2.15
+    		
+    		
+    			assistant 
+    				 Alexandra
+    				 Maria
+    			
+    			student 
+    				 Larisa
+    				 Oana
+    			
+    			
+    			grade 0.4
+    		
+    		
+    			assistant 
+    				 Alexandra
+    				 Maria
+    			
+    			student 
+    				 Georgiana
+    				 Calin
+    			
+    			
+    			grade 3.65
+    		
+    		
+    			assistant 
+    				 Alexandra
+    				 Maria
+    			
+    			student 
+    				 Dragos
+    				 Barbu
+    			
+    			
+    			grade 4.9
+    		
+    		
+    			assistant 
+    				 Alexandra
+    				 Maria
+    			
+    			student 
+    				 Alberto
+    				 Ciobanu
+    			
+    			
+    			grade 2.1
+    		
+course PP   		
+    			assistant 
+    				 Florentina
+    				 Bratosin
+    			
+    			student 
+    				 Ionel
+    				 Dragomir
+    			
+    			
+    			grade 4.35
+    		
+    		
+    			assistant 
+    				 Florentina
+    				 Bratosin
+    			
+    			student 
+    				 Gigel
+    				 Frone
+    			
+    			
+    			grade 1.25
+    		
+    		
+    			assistant 
+    				 Florentina
+    				 Bratosin
+    			
+    			student 
+    				 Costel
+    				 Busuioc
+    			
+    			
+    			grade 4.65
+    		
+    		
+    			assistant 
+    				 Florentina
+    				 Bratosin
+    			
+    			student 
+    				 Florin
+    				 Florea
+    			
+    			
+    			grade 2.1
+    		
+    		
+    			assistant 
+    				 Florentina
+    				 Bratosin
+    			
+    			student 
+    				 Cosmin
+    				 Andrei
+    			
+    			
+    			grade 3.4
+    		
+    		
+    			assistant 
+    				 Horia
+    				 Ghita
+    			
+    			student 
+    				 Sebastian
+    				 Moisescu
+    			
+    			
+    			grade 0.7
+    		
+    		
+    			assistant 
+    				 Horia
+    				 Ghita
+    			
+    			student 
+    				 Larisa
+    				 Oana
+    			
+    			
+    			grade 3.25
+    		
+    		
+    			assistant 
+    				 Horia
+    				 Ghita
+    			
+    			student 
+    				 Georgiana
+    				 Calin
+    			
+    			
+    			grade 2.45
+    		
+    		
+    			assistant 
+    				 Horia
+    				 Ghita
+    			
+    			student 
+    				 Dragos
+    				 Barbu
+    			
+    			
+    			grade 4.25
+    		
+    		
+    			assistant 
+    				 Horia
+    				 Ghita
+    			
+    			student 
+    				 Alberto
+    				 Ciobanu
+    			
+    			
+    			grade 1.3
+    		
+course ED    		
+    			assistant 
+    				 Adrian
+    				 Sava
+    			
+    			student 
+    				 Livia
+    				 Ursu
+    			
+    			
+    			grade 2.05
+    		
+    		
+    			assistant 
+    				 Adrian
+    				 Sava
+    			
+    			student 
+    				 Alfred
+    				 Pop
+    			
+    			
+    			grade 4.15
+    		
+    		
+    			assistant 
+    				 Adrian
+    				 Sava
+    			
+    			student 
+    				 Iulian
+    				 Iancu
+    			
+    			
+    			grade 1.75
+    		
+    		
+    			assistant 
+    				 Adrian
+    				 Sava
+    			
+    			student 
+    				 Sofia
+    				 Negoita
+    			
+    			
+    			grade 0.85
+    		
+    		
+    			assistant 
+    				 Adrian
+    				 Sava
+    			
+    			student 
+    				 Alma
+    				 Dobrica
+    			
+    			
+    			grade 1.15
+    		
+    		
+    			assistant 
+    				 Emilian
+    				 Voinea
+    			
+    			student 
+    				 Cristian
+    				 Manole
+    			
+    			
+    			grade 3.85
+    		
+    		
+    			assistant 
+    				 Emilian
+    				 Voinea
+    			
+    			student 
+    				 Denisa
+    				 Pavel
+    			
+    			
+    			grade 3.35
+    		
+    		
+    			assistant 
+    				 Emilian
+    				 Voinea
+    			
+    			student 
+    				 Alex
+    				 Petrescu
+    			
+    			
+    			grade 1.6
+    		
+    		
+    			assistant 
+    				 Emilian
+    				 Voinea
+    			
+    			student 
+    				 Cosmin
+    				 Tomulescu
+    			
+    			
+    			grade 3.95
+    		
+    		
+    			assistant 
+    				 Emilian
+    				 Voinea
+    			
+    			student 
+    				 Camelia
+    				 Tunaru
+    			
+    			
+    			grade 2.35
+    		
+course SO  		
+    			assistant 
+    				 Alma
+    				 Toma
+    			
+    			student 
+    				 Livia
+    				 Ursu
+    			
+    		
+    			grade 3.45
+    		
+    		
+    			assistant 
+    				 Alma
+    				 Toma
+    			
+    			student 
+    				 Alfred
+    				 Pop
+    			
+    		
+    			grade 2.7
+    		
+    		
+    			assistant 
+    				 Alma
+    				 Toma
+    			
+    			student 
+    				 Iulian
+    				 Iancu
+    			
+    		
+    			grade 3.4
+    		
+    		
+    			assistant 
+    				 Alma
+    				 Toma
+    			
+    			student 
+    				 Sofia
+    				 Negoita
+    			
+    		
+    			grade 2.3
+    		
+    		
+    			assistant 
+    				 Alma
+    				 Toma
+    			
+    			student 
+    				 Alma
+    				 Dobrica
+    			
+    		
+    			grade 3.15
+    		
+    		
+    			assistant 
+    				 Cornel
+    				 Cosma
+    			
+    			student 
+    				 Cristian
+    				 Manole
+    			
+    		
+    			grade 2.4
+    		
+    		
+    			assistant 
+    				 Cornel
+    				 Cosma
+    			
+    			student 
+    				 Denisa
+    				 Pavel
+    			
+    		
+    			grade 3
+    		
+    		
+    			assistant 
+    				 Cornel
+    				 Cosma
+    			
+    			student 
+    				 Alex
+    				 Petrescu
+    			
+    		
+    			grade 0.8
+    		
+    		
+    			assistant 
+    				 Cornel
+    				 Cosma
+    			
+    			student 
+    				 Cosmin
+    				 Tomulescu
+    			
+    		
+    			grade 1.9
+    		
+    		
+    			assistant 
+    				 Cornel
+    				 Cosma
+    			
+    			student 
+    				 Camelia
+    				 Tunaru
+    			
+    		
+    			grade 4.65
+    		
+ end
+
+    Mariana
+    Toma
+    PP
+    311CC
+    
+    
